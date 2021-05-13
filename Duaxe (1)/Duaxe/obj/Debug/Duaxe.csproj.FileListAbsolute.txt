@@ -1,0 +1,50 @@
+C:\Users\Admin\Desktop\Duaxe\Duaxe\bin\Debug\Duaxe.exe.config
+C:\Users\Admin\Desktop\Duaxe\Duaxe\bin\Debug\Duaxe.exe
+C:\Users\Admin\Desktop\Duaxe\Duaxe\bin\Debug\Duaxe.pdb
+C:\Users\Admin\Desktop\Duaxe\Duaxe\obj\Debug\Duaxe.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Duaxe\Duaxe\obj\Debug\Duaxe.Form1.resources
+C:\Users\Admin\Desktop\Duaxe\Duaxe\obj\Debug\Duaxe.Properties.Resources.resources
+C:\Users\Admin\Desktop\Duaxe\Duaxe\obj\Debug\Duaxe.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Duaxe\Duaxe\obj\Debug\Duaxe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Duaxe\Duaxe\obj\Debug\Duaxe.exe
+C:\Users\Admin\Desktop\Duaxe\Duaxe\obj\Debug\Duaxe.pdb
+C:\Users\Admin\Desktop\Duaxe\Duaxe\obj\Debug\Duaxe.Properties.Form2.resources
+C:\Users\Admin\Desktop\Duaxe\Duaxe\obj\Debug\Duaxe.Form2.resources
+C:\Users\hp\Downloads\Duaxe\Duaxe\bin\Debug\Duaxe.exe.config
+C:\Users\hp\Downloads\Duaxe\Duaxe\bin\Debug\Duaxe.exe
+C:\Users\hp\Downloads\Duaxe\Duaxe\bin\Debug\Duaxe.pdb
+C:\Users\hp\Downloads\Duaxe\Duaxe\obj\Debug\Duaxe.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\Duaxe\Duaxe\obj\Debug\Duaxe.Form1.resources
+C:\Users\hp\Downloads\Duaxe\Duaxe\obj\Debug\Duaxe.Form2.resources
+C:\Users\hp\Downloads\Duaxe\Duaxe\obj\Debug\Duaxe.Properties.Form2.resources
+C:\Users\hp\Downloads\Duaxe\Duaxe\obj\Debug\Duaxe.Properties.Resources.resources
+C:\Users\hp\Downloads\Duaxe\Duaxe\obj\Debug\Duaxe.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Duaxe\Duaxe\obj\Debug\Duaxe.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Duaxe\Duaxe\obj\Debug\Duaxe.exe
+C:\Users\hp\Downloads\Duaxe\Duaxe\obj\Debug\Duaxe.pdb
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\bin\Debug\Duaxe.exe.config
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\bin\Debug\Duaxe.exe
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\bin\Debug\Duaxe.pdb
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.csprojAssemblyReference.cache
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.Form1.resources
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.Form2.resources
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.Properties.Form2.resources
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.Properties.Resources.resources
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.csproj.GenerateResource.cache
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.exe
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.pdb
+C:\Users\Ngoc Nghia\Downloads\Compressed\Duaxe\obj\Debug\Duaxe.Form3.resources
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.csprojAssemblyReference.cache
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.Form1.resources
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.Form2.resources
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.Properties.Form2.resources
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.Properties.Resources.resources
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.Form3.resources
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.csproj.GenerateResource.cache
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.exe
+C:\Users\Ngoc Nghia\Desktop\Duaxe\obj\Debug\Duaxe.pdb
+C:\Users\Ngoc Nghia\Desktop\Duaxe\bin\Debug\Duaxe.exe.config
+C:\Users\Ngoc Nghia\Desktop\Duaxe\bin\Debug\Duaxe.exe
+C:\Users\Ngoc Nghia\Desktop\Duaxe\bin\Debug\Duaxe.pdb
